@@ -1,10 +1,14 @@
 Bem Vindo!
 
-<div>
-  <a href="https://github.com/lucasbazvd">
-  <img height="180em" align = "left" src="https://github-readme-stats.vercel.app/api?username=lucasbazvd&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" align = "left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbazvd&layout=compact&langs_count=7&theme=dark"/>
-</div>
+  
+ <center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbazvd&hide=html&layout=compact&theme=dark" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=lucasbazvd&theme=dark"/></td>
+    </tr>   
+</table>
+</center> 
 
 <!--
 **lucasbazvd/lucasbazvd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
