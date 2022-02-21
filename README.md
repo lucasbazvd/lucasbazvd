@@ -12,7 +12,8 @@ Sinta-se livre para me contatar caso queira debater algo relacionado a Data Scie
   <a href="https://www.linkedin.com/in/lucas-azevedo-4156a215b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-  
+<br>
+
  <center>
 <table>
     <tr>
