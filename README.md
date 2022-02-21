@@ -1,6 +1,6 @@
 <h3>Bem Vindo(a), é um prazer ter você aqui!</h3>
 
-Sou acadêmico de Engenharia Mecânica e estudante de Data Science. 
+Sou estudante de Data Science e acadêmico de Engenharia Mecânica. 
 
 Atualmente estou aprendendo Python, SQL e Power BI.
 
