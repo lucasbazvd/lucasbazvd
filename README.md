@@ -1,4 +1,4 @@
-Bem Vindo, é um prazer ter você aqui!
+<h2>Bem Vindo, é um prazer ter você aqui!</h2>
 
 Sou acadêmico de Engenharia Mecânica e estudante de Data Science. 
 
