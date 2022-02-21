@@ -1,8 +1,8 @@
 Bem Vindo!
 
-Sou acadêmico de Engenharia Mecânica e estudante de data science. 
+Sou acadêmico de Engenharia Mecânica e estudante de Data Science. 
 
-Atualmente estou aprendendo python, SQL e Power BI.
+Atualmente estou aprendendo Python, SQL e Power BI.
 
 Sinta-se livre para me contatar caso queira debater algo relacionado a Data Science e tecnologia!
 
