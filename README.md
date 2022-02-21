@@ -6,6 +6,8 @@ Atualmente estou aprendendo Python, SQL e Power BI.
 
 Sinta-se livre para me contatar caso queira debater algo relacionado a Data Science e tecnologia!
 
+Onde me encontrar:
+
 
 <div> 
   <a href = "mailto:lucasazv99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
