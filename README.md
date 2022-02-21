@@ -6,7 +6,7 @@ Atualmente estou aprendendo Python, SQL e Power BI.
 
 Sinta-se livre para me contatar caso queira debater algo relacionado a Data Science e tecnologia!
 
-Onde me encontrar ( 👇 cique no ícone ) :
+Onde me encontrar ( 👇 clique no ícone ) :
 
 
 <div> 
