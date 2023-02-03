@@ -1,10 +1,8 @@
 <h3>Bem Vindo(a), é um prazer ter você aqui!</h3>
 
-Sou estudante de Data Science e acadêmico de Engenharia Mecânica. 
+Sou acadêmico de Engenharia Mecânica migrando para Data Analytics. 
 
-Atualmente estou aprendendo Python, SQL e Power BI.
-
-Sinta-se livre para me contatar caso queira debater algo relacionado a Data Science e tecnologia!
+Sinta-se livre para me contatar caso queira debater algo relacionado a BI, mundo de dados e tecnologia!
 
 Onde me encontrar ( 👇 clique no ícone ) :
 
