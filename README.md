@@ -1,6 +1,6 @@
 <h3>Bem Vindo(a), é um prazer ter você aqui!</h3>
 
-Sou acadêmico de Engenharia Mecânica migrando para Data Analytics. 
+Sou Engenheiro Mecânico e trabalho com dados.
 
 Sinta-se livre para me contatar caso queira debater algo relacionado a BI, mundo de dados e tecnologia!
 
